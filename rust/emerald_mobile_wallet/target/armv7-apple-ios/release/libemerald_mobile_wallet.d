@@ -1,0 +1,1 @@
+/Users/macuser/Projects/RN/emerald_mobile_wallet/rust/emerald_mobile_wallet/target/armv7-apple-ios/release/libemerald_mobile_wallet.a: /Users/macuser/Projects/RN/emerald_mobile_wallet/rust/emerald_mobile_wallet/src/lib.rs /Users/macuser/Projects/RN/emerald_mobile_wallet/rust/emerald_mobile_wallet/src/string.rs

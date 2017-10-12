@@ -1,0 +1,1 @@
+/Users/macuser/Projects/RN/emerald_mobile_wallet/rust/emerald_mobile_wallet/target/aarch64-linux-android/release/libemerald_mobile_wallet.so: /Users/macuser/Projects/RN/emerald_mobile_wallet/rust/emerald_mobile_wallet/src/lib.rs /Users/macuser/Projects/RN/emerald_mobile_wallet/rust/emerald_mobile_wallet/src/string.rs
