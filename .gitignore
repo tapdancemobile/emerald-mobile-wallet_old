@@ -1,3 +1,6 @@
+#Webstorm
+.idea/
+
 # NDK
 NDK/
 rust/.cargo
@@ -39,6 +42,10 @@ build/
 .idea
 .gradle
 *.iml
+*.apk
+*.ap_
+*.dex
+*.class
 
 # node.js
 #
